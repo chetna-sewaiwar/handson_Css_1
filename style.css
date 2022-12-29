@@ -1,0 +1,53 @@
+h1{
+    color:red;
+
+    
+}
+
+h2{
+    color:orangered;
+}
+
+ol{
+    color:maroon;
+    font-weight: 520;
+    font-size:large;
+    line-height:2.5;
+}
+
+ul{
+    color:maroon;
+    letter-spacing:5px;;
+    font-size:large;
+    font-weight: 520;
+}
+
+.mark{
+    background-color: yellow;
+    font-weight:600;
+}
+
+.through{ 
+    text-decoration: line-through;
+    font-weight: 600;
+}
+.italic{
+    font-style:italic;
+    text-decoration: underline;
+}
+
+.color{
+    color:#a0522d;
+    font-size:large;
+    font-weight: 520;
+
+}
+
+.hover{
+    color:red;
+    background-color:yellow;
+    font-style:italic;
+    font-weight: 600;
+    font-size:large;
+}
+
